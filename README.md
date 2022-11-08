@@ -11,7 +11,7 @@ I'm passionate about building Webapp and DApps using latest technologies in web 
 - 🤔 I’m looking to help with buliding web and defi solutions.
 - 🌱 I’m currently learning blockchain technologies
 - 💬 Ask me about web and blockchain app development
-- 📫 How to reach me: evercreativedev@gmail.com
+- 📫 How to reach me: @ethcody (telegram)
 - ⚡ Fun fact: ...
 
 
